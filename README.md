@@ -1,7 +1,7 @@
 # 💫Greetings!
 
 My name is Pedro Pozzi Ferreira. Nice to meet you!
-I'm a brazilian developer with a degree in computer engineering. I've been working with the bellow stacks for more then 6 years, in both back and front end, as well of in embed systems.
+I'm a brazilian developer with a degree in computer engineering. I've been working with the bellow stacks for more than 8 years, in both back and front end, as well as in embed systems.
 
 ## 🌐Social Media:
 
